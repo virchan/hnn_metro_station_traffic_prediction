@@ -6,6 +6,6 @@ ver_001_MSLES_train.csv - Training MSLEs of 100 hypergraph neural networks over 
 ver_001_MSLES_test.csv - Testing MSLEs of 100 hypergraph neural networks over 500 epochs.
 
 ## References
-* https://doi.org/10.1140/epjds/s13688-020-00231-0
+* Aksoy, Sinan G., et al. “Hypernetwork Science via High-Order Hypergraph Walks.” EPJ Data Science, vol. 9, no. 1, 2020,   https://doi.org/10.1140/epjds/s13688-020-00231-0. 
 * https://www.youtube.com/watch?v=8owQBFAHw7E
 * https://pnnl.github.io/HyperNetX/build/index.html
